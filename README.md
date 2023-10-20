@@ -8,7 +8,7 @@ I'm a Fullstack Web Developer 💻, Photographer 📸, and Gamer 🎮 !
 
 [![Nithin’s github stats](https://github-readme-stats.vercel.app/api?username=Nithixz)](https://github.com/Nithixz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithixz&layout=compact)](https://github.com/Nithixz)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithixz&layout=compact)](https://github.com/Nithixz) -->
 
 <!--
 **Nithixz/Nithixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
