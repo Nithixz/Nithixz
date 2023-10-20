@@ -10,6 +10,10 @@ I'm a Fullstack Web Developer 💻, Photographer 📸, and Gamer 🎮 !
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithixz&layout=compact)](https://github.com/Nithixz) -->
 
+## 🌱 I'm currently learning
+
+-React 
+-Spring Boot
 <!--
 **Nithixz/Nithixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
