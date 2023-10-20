@@ -1,5 +1,10 @@
-### Hello world 👋
+<h3 align="center">
+Hi there, I'm Nithin 👋
+</h3>
+
+<h2 align="center">
 I'm a Fullstack Web Developer 💻, Photographer 📸, and Gamer 🎮 !
+</h2>
 
 [![Nithin’s github stats](https://github-readme-stats.vercel.app/api?username=Nithixz)](https://github.com/Nithixz)
 
