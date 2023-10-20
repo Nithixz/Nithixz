@@ -12,8 +12,8 @@ I'm a Fullstack Web Developer 💻, Photographer 📸, and Gamer 🎮 !
 
 ## 🌱 I'm currently learning
 
--React 
--Spring Boot
+- React
+- Spring Boot
 <!--
 **Nithixz/Nithixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
