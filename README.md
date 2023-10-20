@@ -14,6 +14,8 @@ I'm a Fullstack Web Developer 💻, Photographer 📸, and Gamer 🎮 !
 
 - React
 - Spring Boot
+
+[![An image of @scoxz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/scoxz)](https://holopin.io/@scoxz)
 <!--
 **Nithixz/Nithixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
